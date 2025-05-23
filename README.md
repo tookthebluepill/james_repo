@@ -3,7 +3,7 @@
 I'm studying how to use GitHub.
 I like to solve combinatorial problems as a hobby.
 
-This is a python code created to identify the problem conditions of the extremal combinatorial problem
+This is a Python code created to identify the problem conditions of the extremal combinatorial problem
 ```from itertools import combinations
 from itertools import chain
 from tqdm import tqdm
